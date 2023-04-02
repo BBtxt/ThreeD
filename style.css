@@ -1,0 +1,30 @@
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+body {
+  background: rgb(2,0,36);
+  background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 43%, rgba(0,212,255,1) 100%);
+}
+
+.custom-shape-divider-top-1660948830 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1660948830 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 132px;
+}
+
+.custom-shape-divider-top-1660948830 .shape-fill {
+  fill: #000000;
+}
